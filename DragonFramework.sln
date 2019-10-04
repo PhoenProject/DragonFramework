@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DragonFrameworkClient", "DragonFrameworkClient\DragonFrameworkClient.csproj", "{BBEB4E81-D795-4C1C-B14A-0D1A56A14466}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DragonFrameworkServer", "DragonFrameworkServer\DragonFrameworkServer.csproj", "{DE07914F-F390-44D3-9C6A-90C86A8EC79F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBEB4E81-D795-4C1C-B14A-0D1A56A14466}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBEB4E81-D795-4C1C-B14A-0D1A56A14466}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBEB4E81-D795-4C1C-B14A-0D1A56A14466}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBEB4E81-D795-4C1C-B14A-0D1A56A14466}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE07914F-F390-44D3-9C6A-90C86A8EC79F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE07914F-F390-44D3-9C6A-90C86A8EC79F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE07914F-F390-44D3-9C6A-90C86A8EC79F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE07914F-F390-44D3-9C6A-90C86A8EC79F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {109ADDA8-BBD2-4B08-8D30-F8D7FF493786}
+	EndGlobalSection
+EndGlobal

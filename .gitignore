@@ -1,0 +1,8 @@
+/.vs/
+/packages/
+/Builds
+/DragonFrameworkServer/configReal.json
+/DragonFrameworkServer/obj/
+/DragonFrameworkServer/bin/
+/DragonFrameworkClient/obj/
+/DragonFrameworkClient/bin/
